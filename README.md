@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-I’m Klaudia from Albania, web developer and front-end developer. I really enjoy learning languages and frameworks like React, and Node.js,  as well as working in Wordpress.
-
-### Hi there 👋, My name is Klaudia
 #### Web Developer and Front-End Developer
 I’m Klaudia from Albania, web developer and front-end developer. I really enjoy learning languages and frameworks like React, and Node.js, as well as working in Wordpress.
 
