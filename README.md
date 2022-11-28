@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### Front-End Developer
-I’m Klaudia from Albania, front-end developer. I really enjoy learning languages and frameworks like React, and Node.js, as well as working in Wordpress.
+I’m Klaudia from Albania, front-end developer. I really enjoy learning languages and frameworks like React, as well as working in Wordpress.
 
 Skills: JS / HTML / CSS
 
